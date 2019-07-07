@@ -1,3 +1,8 @@
+[![Build Status](https://travis-ci.com/calvinbui/ansible-organizr-docker.svg?branch=master)](https://travis-ci.com/calvinbui/ansible-organizr-docker)
+![GitHub release](https://img.shields.io/github/release/calvinbui/ansible-organizr-docker.svg)
+![Ansible Quality Score](https://img.shields.io/ansible/quality/40620.svg)
+![Ansible Role](https://img.shields.io/ansible/role/d/40620.svg)
+
 # Ansible Organizr
 
 Organizr in Docker.
